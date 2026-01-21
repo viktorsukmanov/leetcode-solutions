@@ -8,6 +8,7 @@
 | [0283-move-zeroes](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0845-longest-mountain-in-array](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 ## Hash Table
 |  |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
