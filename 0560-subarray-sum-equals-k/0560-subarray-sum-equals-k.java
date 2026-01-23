@@ -1,19 +1,15 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int answer = 0; //1
+        int answer = 0;
+        int subarray_sum = 0;
+        Map<Integer, Integer> count_sum = new HashMap<>();
+        count_sum.put(0, 1);
 
         for(int i = 0; i < nums.length; i++){
-            int sum = nums[i]; //1
-            if(nums[i] == k){
-                answer++;
-            }
-            for(int j = i + 1; j < nums.length; j++){
-                sum += nums[j]; //3
-                if(sum == k){
-                    answer++;
-                }
-            }
+            subarray_sum += nums[i];
+            answer += count_sum.getOrDefault(subarray_sum - k, 0);
+            count_sum.merge(subarray_sum, 1, Integer::sum);
         }
-        return answer;
+        return answer;        
     }
 }
