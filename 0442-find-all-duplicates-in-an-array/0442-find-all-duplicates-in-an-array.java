@@ -1,17 +1,17 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
-        List<Integer> answer = new ArrayList<>();
+        List<Integer> resault = new ArrayList<>();
         
         for(int i = 0; i < nums.length; i++){
             int value = Math.abs(nums[i]);
             if(nums[value - 1] < 0){
-                answer.add(value);
+                resault.add(value);
             }
 
             nums[value - 1] *= -1;
         }
 
-        return answer;
+        return resault;
     }
 }
 
