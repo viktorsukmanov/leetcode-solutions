@@ -13,6 +13,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0845-longest-mountain-in-array](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
+| [0904-fruit-into-baskets](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -58,4 +60,5 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
