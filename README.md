@@ -15,6 +15,7 @@
 | [0724-find-pivot-index](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0845-longest-mountain-in-array](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0904-fruit-into-baskets](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,4 +71,20 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
