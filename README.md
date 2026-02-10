@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0179-largest-number](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -28,6 +29,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0179-largest-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
@@ -59,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0179-largest-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
@@ -87,4 +90,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
