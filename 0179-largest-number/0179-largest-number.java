@@ -6,9 +6,9 @@ class Solution {
         }
 
         Arrays.sort(numsString, (a, b) -> {
-            String order1 = a + b;
+            String order = a + b;
             String order2 = b + a;
-            return order2.compareTo(order1);
+            return order2.compareTo(order);
         });
 
         if(numsString[0].equals("0")) return "0";
