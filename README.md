@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -74,6 +75,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/viktorsukmanov/leetcode-solutions/tree/master/0278-first-bad-version) |
