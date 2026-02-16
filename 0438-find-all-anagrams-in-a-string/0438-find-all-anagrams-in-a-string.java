@@ -1,8 +1,8 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-            List<Integer> result = new ArrayList<>();
+            List<Integer> answer = new ArrayList<>();
         if(s.length() < p.length()){
-            return result;
+            return answer;
         }
 
         Map<Character, Integer> counterP = new HashMap<>();
@@ -14,7 +14,7 @@ class Solution {
             counterS.put(s.charAt(i), counterS.getOrDefault(s.charAt(i), 0) + 1);
         }
 
-        if(counterP.equals(counterS)) result.add(0);
+        if(counterP.equals(counterS)) answer.add(0);
 
         int l = 0;
         int r = p.length() - 1;
@@ -25,9 +25,9 @@ class Solution {
             counterS.put(charToRemove, counterS.get(charToRemove) - 1);
             r++;
             l++;
-            if(sameCounters(counterP, counterS)) result.add(l);
+            if(sameCounters(counterP, counterS)) answer.add(l);
         }
-        return result;
+        return answer;
     }
 
     private boolean sameCounters(Map<Character, Integer> counter1, Map<Character, Integer> counter2){
